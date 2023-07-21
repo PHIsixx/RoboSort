@@ -4,6 +4,10 @@ RoboSort is an robotic project developed as part of a university study. It invol
 ## Sorter.java
 runs on the sorter robot
 
+## Container
+runs on container robot
+ -  not tested
+
 ## Container-solelyCommunication.java
 runs on the container robot
  - contains only the MQTT communication
